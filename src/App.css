@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.clock-container {
+  border: 1px solid black;
+  width: 400px;
+}
